@@ -11,6 +11,7 @@ A Jetpack Compose-powered Android app to help users store and manage their **med
 - 📄 **Upload and view documents** (PDF or Image)
   - Add doctor name, report type, and personal notes
   - Save in internal storage for offline access
+  - Also synced to Firebase Storage for backup and multi-device support
 - 🔍 **Smart filters**
   - Filter by doctor, report type, or date (e.g., Last 3 months)
 - 🖼️ **Preview files and actions**
@@ -29,7 +30,7 @@ A Jetpack Compose-powered Android app to help users store and manage their **med
 - 🧱 **Multi-Module Architecture**
   - `:app`, `:presentation`, `:domain`, `:data`, `:core`
 - 🏠 **Room Database** – Local storage
-- ☁️ **Firebase (optional)** – For sync and authentication
+- ☁️ **Firebase )** – For sync 
 - 📸 **ML Kit (Text Recognition)** – Extract text from images
 - 🤖 **Gemini API (Google AI)** – Explain medical documents in plain language
 
