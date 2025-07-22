@@ -98,9 +98,9 @@ MIT License. Free to use with attribution.
 
 ## ✍️ Author
 
-Built with ❤️ by [Your Name](https://medium.com/@tabish.dev.work)
+Built with ❤️ by [Tabish Ahmad](https://medium.com/@tabish.dev.work)
 
-Medium Article: [How I Built a Medical Help App Using Jetpack Compose](https://medium.com/@yourprofile)
+Medium Article: [How I Built a Medical Help App Using Jetpack Compose](https://medium.com/@tabish.dev.work/how-i-built-a-medical-help-app-using-jetpack-compose-f6fd18b8f789)
 
 ---
 
