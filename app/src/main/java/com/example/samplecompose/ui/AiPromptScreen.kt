@@ -69,7 +69,7 @@ fun AiPromptScreen(
                 isLoading = true
                 coroutineScope.launch {
                     try {
-                        val apiKey = "AIzaSyA9U5TqkX7OhZkoYiLJrwy1Ac2UJneE89s"// BuildConfig.GEMINI_API_KEY
+                        val apiKey = BuildConfig.GEMINI_API_KEY
                         println("Ai Response apiKey -> " + apiKey)
                         val aiPrompt = "$promptText\n\n$inputText"
                         var geminiApiService = GeminiApiService(apiKey)
