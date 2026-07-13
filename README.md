@@ -40,7 +40,7 @@ A Jetpack Compose-powered Android app to help users store and manage their **med
 
 1. **Clone the repo**
 ```bash
-git clone https://github.com/yourname/MedicalHelpApp.git
+git clone https://github.com/Tabishahmad/FamilyMedicalRecords.git
 ```
 
 2. **Open in Android Studio** (Arctic Fox or newer)

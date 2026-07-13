@@ -13,7 +13,7 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "SampleCompose"
+rootProject.name = "FamilyMedicalRecords"
 include(":app")
 include(":core")
 include(":data")
